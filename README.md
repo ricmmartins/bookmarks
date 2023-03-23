@@ -14,11 +14,11 @@
 - https://www.jedi.be/blog/
 - https://venturebeat.com/
 - http://www.aosabook.org/en/index.html
-https://thenextweb.com/
-https://www.ycombinator.com/about
-https://serversforhackers.com/
-https://www.engineyard.com/blog/
-https://www.redhat.com/en/blog/channel/security
-https://www.redhat.com/en/blog
-http://verticalsysadmin.com/blog/
-https://www.opsschool.org/
+- https://thenextweb.com/
+- https://www.ycombinator.com/about
+- https://serversforhackers.com/
+- https://www.engineyard.com/blog/
+- https://www.redhat.com/en/blog/channel/security
+- https://www.redhat.com/en/blog
+- http://verticalsysadmin.com/blog/
+- https://www.opsschool.org/
