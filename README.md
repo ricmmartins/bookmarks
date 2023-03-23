@@ -24,3 +24,4 @@
 - https://www.opsschool.org/
 - https://github.com/kilimchoi/engineering-blogs
 - https://rmartins.blob.core.windows.net/apresentacoes/Personal_Branding.pdf
+- https://learntocloud.guide/
